@@ -1,0 +1,15 @@
+body {
+    font-family: poppins;
+}
+
+.logo, .sbheader {
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+}
+
+@media(max-width: 991px) {
+    .sidebar {
+    background-color: #212529cc;
+    backdrop-filter: blur(10px);
+    }
+}

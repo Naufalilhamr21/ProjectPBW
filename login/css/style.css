@@ -1,0 +1,28 @@
+.container {
+    width: 700px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: #212121;
+}
+
+.btn:hover {
+    color: #fff !important;
+    background-color: #212121 !important;
+}
+
+.signUp {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.login {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    text-align: center;
+}

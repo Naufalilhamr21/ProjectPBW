@@ -1,0 +1,50 @@
+.main, .banner-product {
+    font-family: poppins;
+    height: 100%;
+}
+
+.logo, .sbheader {
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+}
+
+#searchBar {
+    width: 450px;
+}
+
+.categoriesTitle, .aboutUsTitle, .bestProductTitle {
+    font-family: poppins;
+    font-weight: 650;
+}
+
+.highlightedCategories {
+    width: 200px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.imageCategory:hover {
+    transform: scale(1.05);
+}
+
+.aboutUs {
+    background-color: #212121;
+}
+
+.card:hover {
+    border: 1px solid;
+    transform: scale(1.01);
+}
+
+.banner-product {
+    background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+    height: 90px;
+}
+
+.list-group a {
+    text-decoration: none;
+}
+
+.list-group a:hover {
+    transform: scale(1.05);
+}
